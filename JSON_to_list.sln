@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Deserialize with named array", "ConsoleApp1\Deserialize with named array.csproj", "{8E091E23-BA2D-4004-A67D-8BB945E5D20B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deserialize unnamed array", "ConsoleApp2\Deserialize unnamed array.csproj", "{BD4D1D4A-5775-41B6-888D-D5D6482EFAEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E091E23-BA2D-4004-A67D-8BB945E5D20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E091E23-BA2D-4004-A67D-8BB945E5D20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E091E23-BA2D-4004-A67D-8BB945E5D20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E091E23-BA2D-4004-A67D-8BB945E5D20B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD4D1D4A-5775-41B6-888D-D5D6482EFAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4D1D4A-5775-41B6-888D-D5D6482EFAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4D1D4A-5775-41B6-888D-D5D6482EFAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4D1D4A-5775-41B6-888D-D5D6482EFAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62EF1A76-9CF7-4DA9-BCCF-E3D8DF3D98A4}
+	EndGlobalSection
+EndGlobal
